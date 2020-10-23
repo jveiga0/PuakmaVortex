@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/designer
+END
+ServerDesigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/designer/ServerDesigner.java
+END
+DesignerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/designer/DesignerBase.java
+END
+ApplicationStructureBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/designer/ApplicationStructureBean.java
+END
+ServerStructureBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/designer/ServerStructureBean.java
+END
+DesignerBaseImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/designer/DesignerBaseImpl.java
+END
+BaseSoapObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/designer/BaseSoapObject.java
+END
+DatabaseDesigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/designer/DatabaseDesigner.java
+END
+DownloadDesigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/designer/DownloadDesigner.java
+END
+IElementHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/designer/IElementHandler.java
+END
+XMLServerParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/designer/XMLServerParser.java
+END
+PuakmaXmlCodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/designer/PuakmaXmlCodes.java
+END
+XMLWholeApplicationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/designer/XMLWholeApplicationParser.java
+END
+AppDesigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/designer/AppDesigner.java
+END
+XmlLogHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/designer/XmlLogHandler.java
+END

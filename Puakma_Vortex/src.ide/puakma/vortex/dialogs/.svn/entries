@@ -1,0 +1,109 @@
+8
+
+dir
+59
+https://cannibal.wnc.net.au:8443/svn/vortex/1.1/src.ide/puakma/vortex/dialogs
+https://cannibal.wnc.net.au:8443/svn
+
+
+
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9b6461d3-81e0-45f6-9edf-8048896f3fc9
+
+ConnectionComposite.java
+file
+
+
+
+
+2007-08-31T01:20:49.000000Z
+e91c23327b69cd6fe050bf52af01682b
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+ConnectionManagerDialog.java
+file
+
+
+
+
+2007-08-31T01:20:49.000000Z
+dfa69a45d70dbcfa27389617f9c93dc9
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+DesignObjectLoooookupDialog.java
+file
+
+
+
+
+2007-08-31T01:20:49.000000Z
+c024ffc20e76cbe73ada70887308755e
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+DualInputDialog.java
+file
+
+
+
+
+2007-08-31T01:20:49.000000Z
+a73b54dc07bc0388193f86cb1f111b6d
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+ExtendedConnectionPrefs.java
+file
+
+
+
+
+2007-08-31T01:20:49.000000Z
+3793c036e4971e9dcdef09ca6f154a6b
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+RenameJavaObject.java
+file
+
+
+
+
+2007-08-31T01:20:49.000000Z
+80b762ee3332fd363f771e0fd71610e3
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+database
+dir
+
+scheduledAction
+dir
+
+server
+dir
+

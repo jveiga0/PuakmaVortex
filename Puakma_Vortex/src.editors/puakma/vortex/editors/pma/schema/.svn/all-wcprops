@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/pma/schema
+END
+TagDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/pma/schema/TagDescriptor.java
+END
+TestTagsManagerForPma.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/pma/schema/TestTagsManagerForPma.java
+END
+PmaAttrDeclImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/pma/schema/PmaAttrDeclImpl.java
+END
+PmaAttributeCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/pma/schema/PmaAttributeCollection.java
+END
+tags.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/pma/schema/tags.properties
+END
+PmaNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/pma/schema/PmaNamespace.java
+END
+PmaElementCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/pma/schema/PmaElementCollection.java
+END
+BasePmaTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/pma/schema/BasePmaTag.java
+END
+PmaCMNodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/pma/schema/PmaCMNodeImpl.java
+END

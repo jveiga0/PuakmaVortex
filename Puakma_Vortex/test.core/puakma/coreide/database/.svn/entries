@@ -1,0 +1,52 @@
+8
+
+dir
+59
+https://cannibal.wnc.net.au:8443/svn/vortex/1.1/test.core/puakma/coreide/database
+https://cannibal.wnc.net.au:8443/svn
+
+
+
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9b6461d3-81e0-45f6-9edf-8048896f3fc9
+
+TestSQLHelper.java
+file
+
+
+
+
+2007-08-31T01:20:47.000000Z
+aed588f88ea4fdb468f3ae8fd3292705
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+TestVTLDBGenerator.java
+file
+
+
+
+
+2007-08-31T01:20:47.000000Z
+fd99ad95cb4c1ee5d6c08b1e0e780b4f
+2007-08-11T15:50:28.089677Z
+39
+mn
+

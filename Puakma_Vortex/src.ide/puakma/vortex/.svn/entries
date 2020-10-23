@@ -1,0 +1,262 @@
+8
+
+dir
+59
+https://cannibal.wnc.net.au:8443/svn/vortex/1.1/src.ide/puakma/vortex
+https://cannibal.wnc.net.au:8443/svn
+
+
+
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9b6461d3-81e0-45f6-9edf-8048896f3fc9
+
+AuthenticationDialogImpl.java
+file
+
+
+
+
+2007-08-31T01:20:57.000000Z
+3473e5f787e9a735a9800129fed2ed08
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+IconConstants.java
+file
+
+
+
+
+2007-08-31T01:21:00.000000Z
+0fcff2516a326740f6d00f4b56db6bd4
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+IdeException.java
+file
+
+
+
+
+2007-08-31T01:20:55.000000Z
+4060d813c9d98cb66a9fc2c3c3321e36
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+IdeInvocationException.java
+file
+
+
+
+
+2007-08-31T01:20:50.000000Z
+5291aa1199f0683528e6d5b44d7b1cb9
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+IdeLogger.java
+file
+
+
+
+
+2007-08-31T01:20:49.000000Z
+261e209fa5a115659f97f5009121e193
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+IdeMessages.java
+file
+
+
+
+
+2007-08-31T01:21:02.000000Z
+e8bfc243f2772aaac11b2ed8c02da92b
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+InterruptedAuthException.java
+file
+
+
+
+
+2007-08-31T01:20:50.000000Z
+6f4e0ec5d9c8622a5cfad2a5732e1963
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+JdbcDriverDefinition.java
+file
+
+
+
+
+2007-08-31T01:21:02.000000Z
+3a918bf7ab4b2d50679ad7e413af8825
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+JdtUtils.java
+file
+
+
+
+
+2007-08-31T01:20:49.000000Z
+4e1a8cc981cb2a8b4018ed9c0d585f8c
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+PuakmaAdapterFactory.java
+file
+
+
+
+
+2007-08-31T01:20:50.000000Z
+23cbf315e6cb362fd486767c0071b6b3
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+RecentApplicationsListener.java
+file
+
+
+
+
+2007-08-31T01:21:02.000000Z
+1ba059550d8237dfee9986febdfbf209
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+VortexPlugin.java
+file
+
+
+
+
+2007-08-31T01:20:50.000000Z
+96f316b51ab20746a522de03be7f9cd2
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+VortexToEclipseProgressMonitorBridge.java
+file
+
+
+
+
+2007-08-31T01:20:50.000000Z
+524d26f7a45620b36c4a9ab220c42799
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+WorkbenchUtils.java
+file
+
+
+
+
+2007-08-31T01:20:50.000000Z
+6ff003647ac9e5441025192ceca394c0
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+actions
+dir
+
+controls
+dir
+
+database
+dir
+
+dialogs
+dir
+
+gef
+dir
+
+ideResources.properties
+file
+
+
+
+
+2007-08-31T01:20:50.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+messages.properties
+file
+
+
+
+
+2007-08-31T01:20:58.000000Z
+8e69f415bda256c1ffefd115945d1513
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+preferences
+dir
+
+project
+dir
+
+properties
+dir
+
+rcp
+dir
+
+scripts
+dir
+
+swt
+dir
+
+templates
+dir
+
+views
+dir
+
+wizard
+dir
+

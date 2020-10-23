@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/database
+END
+DatabaseGenerator2.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/database/DatabaseGenerator2.java
+END
+DatabaseSchemeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/database/DatabaseSchemeBean.java
+END
+postgres.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/database/postgres.groovy
+END
+SQLCommandDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/database/SQLCommandDescriptor.java
+END
+DatabaseQueryResultBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/database/DatabaseQueryResultBean.java
+END
+BuildSQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/database/BuildSQL.java
+END
+XmlDatabaseStructureParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/database/XmlDatabaseStructureParser.java
+END
+SQLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/database/SQLUtil.java
+END
+hsqldb.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/database/hsqldb.groovy
+END
+mysql.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/database/mysql.groovy
+END
+XmlDatabaseResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/database/XmlDatabaseResultParser.java
+END

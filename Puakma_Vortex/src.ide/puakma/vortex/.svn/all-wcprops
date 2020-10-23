@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex
+END
+VortexToEclipseProgressMonitorBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/VortexToEclipseProgressMonitorBridge.java
+END
+IdeLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/IdeLogger.java
+END
+PuakmaAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/PuakmaAdapterFactory.java
+END
+IdeInvocationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/IdeInvocationException.java
+END
+WorkbenchUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/WorkbenchUtils.java
+END
+AuthenticationDialogImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/AuthenticationDialogImpl.java
+END
+JdbcDriverDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/JdbcDriverDefinition.java
+END
+JdtUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/JdtUtils.java
+END
+RecentApplicationsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/RecentApplicationsListener.java
+END
+InterruptedAuthException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/InterruptedAuthException.java
+END
+ideResources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/ideResources.properties
+END
+IconConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/IconConstants.java
+END
+IdeMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/IdeMessages.java
+END
+IdeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/IdeException.java
+END
+VortexPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/VortexPlugin.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/messages.properties
+END

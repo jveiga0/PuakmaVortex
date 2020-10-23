@@ -1,0 +1,52 @@
+8
+
+dir
+59
+https://cannibal.wnc.net.au:8443/svn/vortex/1.1/icons/new/full
+https://cannibal.wnc.net.au:8443/svn
+
+
+
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9b6461d3-81e0-45f6-9edf-8048896f3fc9
+
+dlcl16
+dir
+
+dtool16
+dir
+
+elcl16
+dir
+
+etool16
+dir
+
+eview16
+dir
+
+obj16
+dir
+
+ovr16
+dir
+
+wizban
+dir
+

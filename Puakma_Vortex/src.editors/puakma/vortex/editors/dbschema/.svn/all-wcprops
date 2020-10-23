@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbschema
+END
+DatabaseSchemaEditorActionBarContributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbschema/DatabaseSchemaEditorActionBarContributor.java
+END
+DatabaseSchemaEditorInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbschema/DatabaseSchemaEditorInput.java
+END
+BaseDatabaseSchemaEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbschema/BaseDatabaseSchemaEditor.java
+END
+DatabaseSchemaEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbschema/DatabaseSchemaEditor.java
+END
+DatabaseSchemaEditorActionContributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbschema/DatabaseSchemaEditorActionContributor.java
+END
+DatabaseSchemaOutlinePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbschema/DatabaseSchemaOutlinePage.java
+END

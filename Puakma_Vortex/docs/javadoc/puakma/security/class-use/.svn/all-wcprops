@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/39/vortex/1.1/docs/javadoc/puakma/security/class-use
+END
+LTPAToken.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/39/vortex/1.1/docs/javadoc/puakma/security/class-use/LTPAToken.html
+END
+TripleDESCoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/39/vortex/1.1/docs/javadoc/puakma/security/class-use/TripleDESCoder.html
+END
+LoginResult.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/39/vortex/1.1/docs/javadoc/puakma/security/class-use/LoginResult.html
+END
+TripleDESCoder.EncryptionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/39/vortex/1.1/docs/javadoc/puakma/security/class-use/TripleDESCoder.EncryptionException.html
+END
+PropertyEncoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/39/vortex/1.1/docs/javadoc/puakma/security/class-use/PropertyEncoder.html
+END
+LDAPAuthenticator.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/39/vortex/1.1/docs/javadoc/puakma/security/class-use/LDAPAuthenticator.html
+END
+PuakmaSecurityManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/39/vortex/1.1/docs/javadoc/puakma/security/class-use/PuakmaSecurityManager.html
+END
+pmaDefaultAuthenticator.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/39/vortex/1.1/docs/javadoc/puakma/security/class-use/pmaDefaultAuthenticator.html
+END
+DominoLDAPAuthenticator.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/39/vortex/1.1/docs/javadoc/puakma/security/class-use/DominoLDAPAuthenticator.html
+END
+pmaAuthenticator.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/39/vortex/1.1/docs/javadoc/puakma/security/class-use/pmaAuthenticator.html
+END

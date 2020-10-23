@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils
+END
+SimpleXmlWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/SimpleXmlWriter.java
+END
+mimetypes.config
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/mimetypes.config
+END
+ClassFileDecompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/ClassFileDecompiler.java
+END
+ContentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/ContentType.java
+END
+imageFiles.config
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/imageFiles.config
+END
+NameValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/NameValuePair.java
+END
+StringNameValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/StringNameValuePair.java
+END
+CryptoUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/CryptoUtils.java
+END
+MimeTypesResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/MimeTypesResolver.java
+END
+VelocityProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/VelocityProcessor.java
+END
+ElementAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/ElementAdapter.java
+END
+FirstWaitForSecond.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/FirstWaitForSecond.java
+END
+ContentTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/ContentTypeImpl.java
+END
+SourceGuess.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/SourceGuess.java
+END
+LineListCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/LineListCompiler.java
+END
+PmaXmlHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/PmaXmlHandler.java
+END
+LineListTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/LineListTokenizer.java
+END
+ClassFileDecompilerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/ClassFileDecompilerException.java
+END
+GraphicsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/GraphicsUtils.java
+END
+XmlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/XmlUtils.java
+END
+MimeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/utils/MimeType.java
+END

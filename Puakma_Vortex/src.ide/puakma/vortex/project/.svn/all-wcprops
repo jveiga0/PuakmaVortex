@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/project
+END
+ProjectLifecycleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/project/ProjectLifecycleListener.java
+END
+ProjectUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/project/ProjectUtils.java
+END
+PuakmaProject2.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/project/PuakmaProject2.java
+END
+PuakmaProject2Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/project/PuakmaProject2Impl.java
+END
+PuakmaProjectUploader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/project/PuakmaProjectUploader.java
+END
+PuakmaProjectExternalUploader.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/project/PuakmaProjectExternalUploader.java
+END
+AbstractProjectFileVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/project/AbstractProjectFileVisitor.java
+END
+JavaProjectConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/project/JavaProjectConfigurationImpl.java
+END
+ExternalProjectReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/project/ExternalProjectReference.java
+END
+JavaProjectConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/project/JavaProjectConfiguration.java
+END
+ProjectManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/project/ProjectManager.java
+END
+DownloadQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/39/vortex/1.1/src.ide/puakma/vortex/project/DownloadQueue.java
+END

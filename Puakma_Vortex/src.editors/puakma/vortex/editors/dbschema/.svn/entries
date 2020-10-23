@@ -1,0 +1,109 @@
+8
+
+dir
+59
+https://cannibal.wnc.net.au:8443/svn/vortex/1.1/src.editors/puakma/vortex/editors/dbschema
+https://cannibal.wnc.net.au:8443/svn
+
+
+
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9b6461d3-81e0-45f6-9edf-8048896f3fc9
+
+BaseDatabaseSchemaEditor.java
+file
+
+
+
+
+2007-08-31T01:21:08.000000Z
+9c0072e6fad776b6442cc1c78f0ae36f
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+DatabaseSchemaEditor.java
+file
+
+
+
+
+2007-08-31T01:21:09.000000Z
+bffe1c22237d41f280f91df8327ec6f6
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+DatabaseSchemaEditorActionBarContributor.java
+file
+
+
+
+
+2007-08-31T01:21:09.000000Z
+12de184d2d0fdee99cc588307c2f1560
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+DatabaseSchemaEditorActionContributor.java
+file
+
+
+
+
+2007-08-31T01:21:08.000000Z
+baea90088f824fe8708769f96c86b04c
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+DatabaseSchemaEditorInput.java
+file
+
+
+
+
+2007-08-31T01:21:09.000000Z
+8963c33bae4b2a656f60775b4cb8f7c0
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+DatabaseSchemaOutlinePage.java
+file
+
+
+
+
+2007-08-31T01:21:08.000000Z
+2f56753fa821b21275e4c682d4cadf14
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+actions
+dir
+
+generator
+dir
+
+topeditor
+dir
+

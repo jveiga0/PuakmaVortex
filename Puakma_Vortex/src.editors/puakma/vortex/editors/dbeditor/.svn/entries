@@ -1,0 +1,139 @@
+8
+
+dir
+59
+https://cannibal.wnc.net.au:8443/svn/vortex/1.1/src.editors/puakma/vortex/editors/dbeditor
+https://cannibal.wnc.net.au:8443/svn
+
+
+
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9b6461d3-81e0-45f6-9edf-8048896f3fc9
+
+DbEditorController.java
+file
+
+
+
+
+2007-08-31T01:21:10.000000Z
+32db9b5dda15f3b073aaf17919d95050
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+DbEditorControllerImpl.java
+file
+
+
+
+
+2007-08-31T01:21:12.000000Z
+e0b643530a1e6d2423d5186e2a9fafef
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+DbPaletteRoot.java
+file
+
+
+
+
+2007-08-31T01:21:10.000000Z
+1fe8194c2aa01d61c340ab7fb7924fc5
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+PaletteDataElementFactory.java
+file
+
+
+
+
+2007-08-31T01:21:13.000000Z
+b60f85235fd91a9c6820c9064ab302dc
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+PartFactory.java
+file
+
+
+
+
+2007-08-31T01:21:14.000000Z
+c0908ea3e054b3db317e1a1b5f8f3853
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+Splitter.java
+file
+
+
+
+
+2007-08-31T01:21:10.000000Z
+e2e75c08d94175a8c2af1fc4e12fb8ca
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+TreePartFactory.java
+file
+
+
+
+
+2007-08-31T01:21:11.000000Z
+3c4485a2207c5bff82191991f81db67f
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+commands
+dir
+
+directedit
+dir
+
+figures
+dir
+
+graph
+dir
+
+layout
+dir
+
+parts
+dir
+
+policies
+dir
+
+properties
+dir
+
+tree
+dir
+

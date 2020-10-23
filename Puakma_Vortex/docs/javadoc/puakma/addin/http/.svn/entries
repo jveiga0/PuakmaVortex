@@ -1,0 +1,127 @@
+8
+
+dir
+59
+https://cannibal.wnc.net.au:8443/svn/vortex/1.1/docs/javadoc/puakma/addin/http
+https://cannibal.wnc.net.au:8443/svn
+
+
+
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9b6461d3-81e0-45f6-9edf-8048896f3fc9
+
+HTTP.html
+file
+
+
+
+
+2007-08-31T01:20:18.000000Z
+b5bdeb6e284a3f0128cb176cb2730c80
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+HTTPRequestManager.html
+file
+
+
+
+
+2007-08-31T01:20:18.000000Z
+a3a0a2376821373b2c646cd90fc7c02f
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+HTTPServer.html
+file
+
+
+
+
+2007-08-31T01:20:18.000000Z
+29dd0d21d6b5f5af1f87304703f6ab66
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+action
+dir
+
+class-use
+dir
+
+document
+dir
+
+log
+dir
+
+package-frame.html
+file
+
+
+
+
+2007-08-31T01:20:18.000000Z
+058db7426e6fce024674caf29300352c
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+package-summary.html
+file
+
+
+
+
+2007-08-31T01:20:18.000000Z
+770e67002ef7397ace03db33783217a6
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+package-tree.html
+file
+
+
+
+
+2007-08-31T01:20:18.000000Z
+82df8846ff1d7d8e591fdc79db1b457d
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+package-use.html
+file
+
+
+
+
+2007-08-31T01:20:18.000000Z
+9c13b6d9661e0628670314b56f7c6fa3
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+util
+dir
+

@@ -1,0 +1,91 @@
+8
+
+dir
+59
+https://cannibal.wnc.net.au:8443/svn/vortex/1.1/src.editors/puakma/vortex/editors/pma
+https://cannibal.wnc.net.au:8443/svn
+
+
+
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9b6461d3-81e0-45f6-9edf-8048896f3fc9
+
+ExtendedTestCase.java
+file
+
+
+
+
+2007-08-31T01:21:15.000000Z
+e7a589ab3afa137a3668c7abb5ac6502
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+Logger.java
+file
+
+
+
+
+2007-08-31T01:21:14.000000Z
+4a504fa615b1df0011d90c1d036fc941
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+PmaStructuredTextEditor.java
+file
+
+
+
+
+2007-08-31T01:21:15.000000Z
+dd1bdbc2caecceff9092193d66c6d018
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+PmaStructuredTextViewer.java
+file
+
+
+
+
+2007-08-31T01:21:15.000000Z
+2a83850c819c3d9a700d8565ab7edc23
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+contentassist
+dir
+
+outline
+dir
+
+parser2
+dir
+
+schema
+dir
+
+validator
+dir
+

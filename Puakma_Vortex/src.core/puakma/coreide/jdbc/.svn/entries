@@ -1,0 +1,52 @@
+8
+
+dir
+59
+https://cannibal.wnc.net.au:8443/svn/vortex/1.1/src.core/puakma/coreide/jdbc
+https://cannibal.wnc.net.au:8443/svn
+
+
+
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9b6461d3-81e0-45f6-9edf-8048896f3fc9
+
+AutoConnection.java
+file
+
+
+
+
+2007-08-31T01:22:05.000000Z
+4d83923e62b8c88593a1d8cb5dec5182
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+JdbcDriverLoderFake.java
+file
+
+
+
+
+2007-08-31T01:22:05.000000Z
+aaeca0d1d2610e7f40457bb73782bc1d
+2007-08-11T15:50:28.089677Z
+39
+mn
+

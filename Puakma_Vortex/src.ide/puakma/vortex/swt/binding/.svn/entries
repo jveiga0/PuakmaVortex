@@ -1,0 +1,52 @@
+8
+
+dir
+59
+https://cannibal.wnc.net.au:8443/svn/vortex/1.1/src.ide/puakma/vortex/swt/binding
+https://cannibal.wnc.net.au:8443/svn
+
+
+
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9b6461d3-81e0-45f6-9edf-8048896f3fc9
+
+BindingDialogBuilder.java
+file
+
+
+
+
+2007-08-31T01:21:02.000000Z
+34d22bbec6a4bb0128c2d08c819c6745
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+ControlBindingDescriptor.java
+file
+
+
+
+
+2007-08-31T01:21:02.000000Z
+2ed580d53d1e355be11c809babcdab28
+2007-08-11T15:50:28.089677Z
+39
+mn
+

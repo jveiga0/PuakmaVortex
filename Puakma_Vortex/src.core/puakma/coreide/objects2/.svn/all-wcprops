@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2
+END
+FkConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/FkConnection.java
+END
+SQLQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/SQLQuery.java
+END
+SourceObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/SourceObject.java
+END
+JavaObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/JavaObject.java
+END
+ILogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/ILogger.java
+END
+ProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/ProgressMonitor.java
+END
+ServerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/ServerListener.java
+END
+TornadoDatabaseConstraints.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/TornadoDatabaseConstraints.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/Server.java
+END
+ObjectChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/ObjectChangeEvent.java
+END
+ServerObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/ServerObject.java
+END
+Parameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/Parameters.java
+END
+ApplicationObjectListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/ApplicationObjectListener.java
+END
+Keyword.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/Keyword.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/Role.java
+END
+DesignObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/DesignObject.java
+END
+ServerDataStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/ServerDataStatus.java
+END
+DatabaseConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/DatabaseConnection.java
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/Application.java
+END
+DatabaseObjectEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/DatabaseObjectEvent.java
+END
+ApplicationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/ApplicationEvent.java
+END
+EventConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/EventConstant.java
+END
+AuthenticationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/AuthenticationDialog.java
+END
+ResourceObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/ResourceObject.java
+END
+TableColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/TableColumn.java
+END
+ApplicationObjectEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/ApplicationObjectEvent.java
+END
+Database.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/Database.java
+END
+ApplicationObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/ApplicationObject.java
+END
+Permission.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/Permission.java
+END
+ApplicationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/ApplicationAdapter.java
+END
+ServerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/ServerEvent.java
+END
+DatabaseObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/DatabaseObject.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/Table.java
+END
+ApplicationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/39/vortex/1.1/src.core/puakma/coreide/objects2/ApplicationListener.java
+END

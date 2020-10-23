@@ -1,0 +1,52 @@
+8
+
+dir
+59
+https://cannibal.wnc.net.au:8443/svn/vortex/1.1/src.ide/puakma/vortex/project/inconsistency
+https://cannibal.wnc.net.au:8443/svn
+
+
+
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9b6461d3-81e0-45f6-9edf-8048896f3fc9
+
+InconsDialog.java
+file
+
+
+
+
+2007-08-31T01:21:01.000000Z
+23f7ea994ff04954f0992234d094f4b4
+2007-08-11T15:50:28.089677Z
+39
+mn
+
+InconsistencyListener.java
+file
+
+
+
+
+2007-08-31T01:21:01.000000Z
+ad332da79184eb6e0f388e4abf8d003b
+2007-08-11T15:50:28.089677Z
+39
+mn
+

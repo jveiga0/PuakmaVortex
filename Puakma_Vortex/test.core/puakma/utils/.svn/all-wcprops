@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/39/vortex/1.1/test.core/puakma/utils
+END
+source0.xjava
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/39/vortex/1.1/test.core/puakma/utils/source0.xjava
+END
+TestFileListReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/39/vortex/1.1/test.core/puakma/utils/TestFileListReader.java
+END
+source2.xjava
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/39/vortex/1.1/test.core/puakma/utils/source2.xjava
+END
+TestGraphicsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/39/vortex/1.1/test.core/puakma/utils/TestGraphicsUtils.java
+END
+source1.xjava
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/39/vortex/1.1/test.core/puakma/utils/source1.xjava
+END
+TestCollectionsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/39/vortex/1.1/test.core/puakma/utils/TestCollectionsUtil.java
+END
+TestJDKUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/39/vortex/1.1/test.core/puakma/utils/TestJDKUtils.java
+END
+source3.xjava
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/39/vortex/1.1/test.core/puakma/utils/source3.xjava
+END
+TestClassFileDecompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/39/vortex/1.1/test.core/puakma/utils/TestClassFileDecompiler.java
+END
+TestSourceGuess.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/39/vortex/1.1/test.core/puakma/utils/TestSourceGuess.java
+END
+TestMimeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/39/vortex/1.1/test.core/puakma/utils/TestMimeType.java
+END
+TestMimeTypesResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/39/vortex/1.1/test.core/puakma/utils/TestMimeTypesResolver.java
+END

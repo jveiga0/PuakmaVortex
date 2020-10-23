@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbeditor/commands
+END
+TableResizeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbeditor/commands/TableResizeCommand.java
+END
+TableColumnCreateCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbeditor/commands/TableColumnCreateCommand.java
+END
+TableColumnDirectEditCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbeditor/commands/TableColumnDirectEditCommand.java
+END
+PropertiesChangeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbeditor/commands/PropertiesChangeCommand.java
+END
+TableColumnDeleteCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbeditor/commands/TableColumnDeleteCommand.java
+END
+ReshufleAllTablesCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbeditor/commands/ReshufleAllTablesCommand.java
+END
+TableDirectEditCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbeditor/commands/TableDirectEditCommand.java
+END
+TableDeleteCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbeditor/commands/TableDeleteCommand.java
+END
+TableCreateCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbeditor/commands/TableCreateCommand.java
+END
+TableColumnMoveCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbeditor/commands/TableColumnMoveCommand.java
+END
+ForeignKeyCreateCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/39/vortex/1.1/src.editors/puakma/vortex/editors/dbeditor/commands/ForeignKeyCreateCommand.java
+END
