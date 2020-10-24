@@ -270,7 +270,6 @@ Require-Bundle: com.ibm.icu,
  org.eclipse.wst.common.ui;bundle-version="1.1.500"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
 Eclipse-LazyStart: true
-Import-Package: javax.wsdl;version="1.6.0",
- org.eclipse.datatools.sqltools.editor.contentassist,
+Import-Package: org.eclipse.datatools.sqltools.editor.contentassist,
  org.eclipse.jst.jsp.ui.internal.validation,
  org.eclipse.wst.jsdt.debug.internal.ui.source.contentassist
