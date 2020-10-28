@@ -1,0 +1,11 @@
+Vortex - backup
+--This line, and those below, will be ignored--
+
+M    about.mappings
+R    build.xml
+M    .classpath
+M    test.core/puakma/utils/lang/TestArrayUtils.java
+M    javaCompiler.ide.jar.args
+M    build.number
+D    src.editors/puakma/vortex/editors/dbschema
+M    src.core/puakma/utils/lang/ArrayUtils.java
